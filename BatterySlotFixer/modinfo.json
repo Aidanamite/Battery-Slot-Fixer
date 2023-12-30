@@ -1,0 +1,14 @@
+{
+  "name": "Battery Slot Fixer",
+  "author": "Aidanamite",
+  "description": "Can be used to fix some old mod machines to use newer batteries",
+  "version": "1.0.1",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/battery-slot-fixer/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
